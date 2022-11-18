@@ -7970,7 +7970,7 @@ msgstr "Дізнатися більше"
 #: lms/templates/discovery/course_card.underscore
 #, python-format
 msgid "Starts: %(start_date)s"
-msgstr ""
+msgstr "Починається: %(start_date)s"
 
 #: lms/templates/discovery/course_card.underscore
 msgid "Starts"

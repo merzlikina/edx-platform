@@ -13530,11 +13530,11 @@ msgstr ""
 
 #: lms/templates/dashboard.html
 msgid "Search Your Courses"
-msgstr ""
+msgstr "Пошук по курсам"
 
 #: lms/templates/courseware/courseware.html lms/templates/dashboard.html
 msgid "Clear search"
-msgstr ""
+msgstr "Очистити пошук"
 
 #: lms/templates/dashboard.html
 msgid "Skip to list of announcements"
@@ -17238,7 +17238,7 @@ msgstr ""
 
 #: lms/templates/header/user_dropdown.html
 msgid "Resume your last course"
-msgstr ""
+msgstr "Повернутись до останнього курсу"
 
 #: lms/templates/header/user_dropdown.html
 msgid "Profile"
@@ -20163,7 +20163,7 @@ msgstr "Згорнути усі розділи"
 
 #: cms/templates/course_outline.html
 msgid "Expand All Sections"
-msgstr ""
+msgstr "Розгорнути всі розділи"
 
 #: cms/templates/course_outline.html
 msgid "Click to open the courseware in the LMS in a new tab"
