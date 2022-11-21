@@ -15923,6 +15923,53 @@ msgstr ""
 msgid "next page"
 msgstr ""
 
+#: lms/templates/courseware/info.html
+msgid "{course_number} Course Info"
+msgstr "Про курс {course_number}"
+
+#: lms/templates/courseware/info.html
+msgid "You are not enrolled yet"
+msgstr "Ви ще не учасник цього курсу"
+
+#: lms/templates/courseware/info.html
+msgid ""
+"You are not currently enrolled in this course. {link_start}Enroll "
+"now!{link_end}"
+msgstr ""
+"Ви поки не учасник цього курсу. {link_start} Записатись {link_end}"
+
+#: lms/templates/courseware/info.html
+msgid "Welcome to {org}'s {course_title}!"
+msgstr "Вітання на курсі {course_title} від {org}!"
+
+#: lms/templates/courseware/info.html
+msgid "Welcome to {course_title}!"
+msgstr "Вітання на курсі {course_title}!"
+
+#: lms/templates/courseware/info.html
+#: lms/templates/dashboard/_dashboard_course_resume.html
+#: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
+#: themes/edx.org/lms/templates/dashboard/_dashboard_course_resume.html
+msgid "Resume Course"
+msgstr "Повернутись до курсу"
+
+#: lms/templates/courseware/info.html
+msgid "View Updates in Studio"
+msgstr "Подивитись оновлення в Studio"
+
+#: lms/templates/courseware/info.html
+msgid "Course Updates and News"
+msgstr "Оголошення і новини курсу"
+
+#: lms/templates/courseware/info.html
+msgid "Handout Navigation"
+msgstr "Навігаціі"
+
+#: lms/templates/courseware/info.html
+#: openedx/features/course_experience/templates/course_experience/course-home-fragment.html
+msgid "Course Tools"
+msgstr "Інструменти курсу"
+
 #: lms/templates/courseware/news.html
 msgid "News - MITx 6.002x"
 msgstr ""
