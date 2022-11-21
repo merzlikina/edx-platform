@@ -3377,7 +3377,7 @@ msgstr "Створити обліковий запис"
 
 #: lms/static/js/student_account/views/RegisterView.js
 msgid "(required)"
-msgstr "(вимагається)"
+msgstr "(обов'язково)"
 
 #: lms/static/js/student_account/views/RegisterView.js
 msgid "You've successfully signed into %(currentProvider)s."
@@ -8687,7 +8687,7 @@ msgstr ""
 
 #: lms/templates/student_account/form_field.underscore
 msgid "Create an account"
-msgstr ""
+msgstr "Створити обліковий запис"
 
 #: lms/templates/student_account/hinted_login.underscore
 #: lms/templates/student_account/login.underscore
@@ -8728,11 +8728,11 @@ msgstr ""
 #: lms/templates/student_account/institution_register.underscore
 #: lms/templates/student_account/register.underscore
 msgid "Create an Account"
-msgstr ""
+msgstr "Створити обліковий запис"
 
 #: lms/templates/student_account/login.underscore
 msgid "First time here?"
-msgstr ""
+msgstr "Ще не зареєстровані?"
 
 #: lms/templates/student_account/login.underscore
 msgid "Create an Account."
@@ -8740,11 +8740,11 @@ msgstr "Створити обліковий запис"
 
 #: lms/templates/student_account/login.underscore
 msgid "Sign in to continue learning as {email}"
-msgstr ""
+msgstr "Авторизуватись для продовження роботи як {email}"
 
 #: lms/templates/student_account/login.underscore
 msgid "Sign in to continue learning"
-msgstr ""
+msgstr "Авторизуйтесь для продовження роботи"
 
 #: lms/templates/student_account/login.underscore
 msgid ""
